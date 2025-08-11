@@ -32,5 +32,5 @@ groups:
         link: https://github.com/Othersideofacoin
         avatar: https://github.com/Othersideofacoin.png
         location: Boston, NYC
-        desc: Yet to be added
+        desc: Opportunities present themselves to those who have prepared.
 ---
